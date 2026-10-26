@@ -31,6 +31,10 @@ Sistema de gerenciamento e vendas para loja de roupas no estilo **Dark Streetwea
 * 📄 **Leitura Rápida:** [Acessar Documentação da Fase 5](docs/FASE5_PRODUCAO.md)
 * 📥 **Arquivo PDF:** [Baixar PDF da Fase 5](docs/Documento_Fase5_Producao_e_Deploy.pdf)
 * 🌐 **Sistema Publicado:** [Acessar Loja Cyber Y2K Live](https://criar-loja-online-via-figma-e8oqosras.vercel.app)
+
+### 📚 Fase 6 — Treinamento, Suporte e Manual do Usuário
+* 📄 **Leitura Rápida:** [Acessar Documentação da Fase 6](docs/FASE6_TREINAMENTO.md)
+* 📥 **Arquivo PDF:** [Baixar PDF da Fase 6](docs/Documento_Fase6_Treinamento_e_Manual.pdf)
 ---
 
 ## 🛠️ Tech Stack Principal
