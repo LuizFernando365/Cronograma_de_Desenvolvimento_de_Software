@@ -1,7 +1,7 @@
-# 📚 Documento de Treinamento, Capacitação e Manual do Usuário (Fase 6)
+# Documento de Treinamento, Capacitação e Manual do Usuário (Fase 6)
 
-> 📥 **Download da Versão Oficial:** [Clique aqui para baixar o PDF completo da Fase 6](Documento_Fase6_Treinamento_e_Manual.pdf)  
-> 🌐 **Sistema Publicado:** [Acessar Loja Cyber Y2K Live](https://criar-loja-online-via-figma-e8oqosras.vercel.app)
+> **Download da Versão Oficial:** [Clique aqui para baixar o PDF completo da Fase 6](Documento_Fase6_Treinamento_e_Manual.pdf)  
+> **Sistema Publicado:** [Acessar Loja Cyber Y2K Live](https://criar-loja-online-via-figma-e8oqosras.vercel.app)
 
 ---
 
@@ -43,11 +43,11 @@ Para garantir a continuidade operacional após o encerramento do projeto, foi de
 
 ## 4. Manual do Usuário (Guia Rápido)
 
-### 🔑 Acesso ao Painel Administrativo
+### Acesso ao Painel Administrativo
 1. Acesse o endereço da loja e clique no ícone de **Login Admin** (ou navegue diretamente para `/admin`)[cite: 5].
 2. Insira suas credenciais cadastradas (E-mail e Senha)[cite: 5].
 
-### 📦 Cadastrar / Alterar um Produto
+### Cadastrar / Alterar um Produto
 1. No menu lateral do Painel Admin, clique em **Produtos**[cite: 5].
 2. Clique no botão **Novo Produto** para adicionar uma peça[cite: 5].
 3. Preencha nome, descrição, categoria, preço, imagem e insira os saldos por tamanho (P, M, G, GG)[cite: 5].
