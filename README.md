@@ -35,6 +35,15 @@ Sistema de gerenciamento e vendas para loja de roupas no estilo **Dark Streetwea
 ### Fase 6 — Treinamento, Suporte e Manual do Usuário
 * **Leitura Rápida:** [Acessar Documentação da Fase 6](docs/FASE6_TREINAMENTO.md)
 * **Arquivo PDF:** [Baixar PDF da Fase 6](docs/Documento_Fase6_Treinamento_e_Manual.pdf)
+
+## Cronograma do Projeto
+O projeto foi estruturado em um ciclo de **16 semanas**, divididas em 6 fases estratégicas:
+* **Semanas 1–2:** Fase 1 (Planejamento e Requisitos)
+* **Semanas 3–4:** Fase 2 (Design e Banco de Dados)
+* **Semanas 5–10:** Fase 3 (Desenvolvimento e Homologação)
+* **Semanas 11–13:** Fase 4 (Testes e Qualidade)
+* **Semanas 14–15:** Fase 5 (Produção e Deploy)
+* **Semana 16:** Fase 6 (Treinamento e Encerramento)
 ---
 
 ## Tech Stack Principal
